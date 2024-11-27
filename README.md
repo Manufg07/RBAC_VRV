@@ -1,6 +1,4 @@
-# RBAC System
-
-![RBAC Icon](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-role-based-access-control-security-external-flat-flat-juicy-fish.png)
+# 🔐 RBAC System
 
 ## Overview
 
